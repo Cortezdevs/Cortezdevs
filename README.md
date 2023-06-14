@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cortezdevs
+- 👀 I’m interested in .lua, .py, html/css, and graphic designs.
+- 🌱 I’m currently learning more .lua, as I still have more to learn.
+- 💞️ I’m looking to collaborate on LUA FiveM Scripts.
+- 📫 How to reach me: You can email me @ Support.cortezdevs.com Or Join My Discord And Open A Ticket. ( discord.gg/YxpXKzvbkf )
